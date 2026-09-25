@@ -1,4 +1,4 @@
-# A\Wallet — Identity-Native Smart Wallet Operating System
+# AWallet — Identity-Native Smart Wallet Operating System
 
 [![Network](https://img.shields.io/badge/Network-Base%20%7C%20EVM-blue.svg)](https://base.org)
 [![Account Abstraction](https://img.shields.io/badge/ERC--4337-Account%20Abstraction-blueviolet.svg)](https://eips.ethereum.org/EIPS/eip-4337)
@@ -6,7 +6,7 @@
 [![Credential](https://img.shields.io/badge/EIP--5114-Soulbound%20Tokens%20%28SBT%29-orange.svg)](https://eips.ethereum.org/EIPS/eip-5114)
 [![AI Orchestration](https://img.shields.io/badge/Tive%20◉AI-Gemini%20Liaison%20Engine-black.svg)](#tive-ai-automated-portfolio-management-system)
 
-**A\Wallet** is an enterprise-grade, identity-native smart wallet operating system designed for the EVM ecosystem (anchored on Base). It bridges on-chain account abstraction (**ERC-4337**), self-sovereign identity (**DID** & **Soulbound Tokens**), hardware-attested biometric authorization (**Pico W / WebAuthn**), and deterministic policy automation with **Tive ◉AI**—an invisible finance orchestration layer for automated, risk-gated portfolio management.
+**AWallet** is an enterprise-grade, identity-native smart wallet operating system designed for the EVM ecosystem (anchored on Base). It bridges on-chain account abstraction (**ERC-4337**), self-sovereign identity (**DID** & **Soulbound Tokens**), hardware-attested biometric authorization (**Pico W / WebAuthn**), and deterministic policy automation with **Tive ◉AI**—an invisible finance orchestration layer for automated, risk-gated portfolio management.
 
 ---
 
@@ -67,7 +67,7 @@ Reputation and compliance qualifications are anchored using non-transferable ERC
 
 ## ⚡ Smart Account & ERC-4337 Account Abstraction
 
-A\Wallet eliminates seed phrase friction and raw gas overhead through full ERC-4337 compatibility:
+AWallet eliminates seed phrase friction and raw gas overhead through full ERC-4337 compatibility:
 
 ### UserOperations & Paymasters
 - Converts raw transactions into bundled `UserOperations`.
